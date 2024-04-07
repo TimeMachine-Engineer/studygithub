@@ -1,4 +1,4 @@
 # studygithub
 studygithub
 
-* Edited for study
+* Edited for study.
